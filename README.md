@@ -7,5 +7,5 @@ How to run
 3. copy the file to a folder named "booking" in your eclipse workspace
 4. configure apache tomcat server for the project
 5. add all jar files that are attached.
-6. run phpmyadmin and install the db file in phpmyadmin from database folder
+6. run phpmyadmin and import the book.sql database
 7. run the project on server
