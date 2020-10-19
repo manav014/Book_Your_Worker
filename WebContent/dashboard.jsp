@@ -299,28 +299,7 @@ span.psw {
 
 
 
-<script>
-// Get the modal
-var pmodal = document.getElementById('plumber');
-var cmodal=document.getElementById('carpainter');
-var emodal=document.getElementById('electrician');
-// When the user clicks anywhere outside of the modal, close it
-window.onclick = function(event) {
-    if (event.target == pmodal) {
-        pmodal.style.display = "none";
-    }
-}
-window.onclick = function(event) {
-    if (event.target == cmodal) {
-        cmodal.style.display = "none";
-    }
-}
-window.onclick = function(event) {
-    if (event.target == emodal) {
-        emodal.style.display = "none";
-    }
-}
-</script>
+
 
 
 
